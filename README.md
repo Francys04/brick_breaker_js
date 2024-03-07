@@ -19,9 +19,9 @@
 
 ### Code Breakdown
 
-1. HTML (breakout.html):
+1. HTML (breakout.html)
 
-- Defines the basic structure of the game screen, including a title (<h1>Breakout</h1>), a score display (<h2>Score: <span id="score">0</span></h2>), and a canvas element (<canvas id="board"></canvas>) where the game visuals are rendered.
+- Defines the basic structure of the game screen, including a title where the game visuals are rendered.
 
 2. CSS (breakout.css):
 
